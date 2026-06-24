@@ -4,7 +4,7 @@ PulseDB is a distributed event store for storing tenant-scoped events with shard
 
 ## Stack
 - Java 21
-- Spring Boot 3.4.2
+- Spring Boot 3.5.15
 - Maven
 
 ## Features
